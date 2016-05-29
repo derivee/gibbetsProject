@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/tools">
+
+    <string name="app_name">Gibbets</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tytul">Tytul</string>
+    <string name="wordToGuess">Enter your guess </string>
+    <string name="title_activity_root">Gibbets</string>
+    <string name="nr_of_trials">Number of trials: </string>
+    <string name="nr_of_used_trials">Number of used trials: </string>
+    <string name="try_again">Try again</string>
+    <string name="teacher">You are teacher"</string>
+    <string name="student">You are student"</string>
+    <string name="share"> photo!</string>
+    <string name="student_instr">Please enter the word and let the student play. Remember to turn the Bluetooth on.</string>
+    <string name="teacher_instr">Please wait for the student to enter word for you. Remember to turn the Bluetooth on.</string>
+    <string name="come_back">Return</string>
+    <!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Returning to the main view.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">not connected</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string>
+</resources>

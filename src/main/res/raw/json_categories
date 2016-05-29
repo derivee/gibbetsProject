@@ -1,0 +1,2513 @@
+{
+  "categories": [
+    {
+      "name": "countries",
+      "wordsArray": [
+        {
+          "word": "Afghanistan",
+          "guessed": "false"
+        },
+        {
+          "word": "Albania",
+          "guessed": "false"
+        },
+        {
+          "word": "Algeria",
+          "guessed": "false"
+        },
+        {
+          "word": "Andorra",
+          "guessed": "false"
+        },
+        {
+          "word": "Angola",
+          "guessed": "false"
+        },
+        {
+          "word": "Antigua and Barbuda",
+          "guessed": "false"
+        },
+        {
+          "word": "Argentina",
+          "guessed": "false"
+        },
+        {
+          "word": "Armenia",
+          "guessed": "false"
+        },
+        {
+          "word": "Aruba",
+          "guessed": "false"
+        },
+        {
+          "word": "Australia",
+          "guessed": "false"
+        },
+        {
+          "word": "Austria",
+          "guessed": "false"
+        },
+        {
+          "word": "Azerbaijan",
+          "guessed": "false"
+        },
+        {
+          "word": "Bahamas",
+          "guessed": "false"
+        },
+        {
+          "word": "Bahrain",
+          "guessed": "false"
+        },
+        {
+          "word": "Bangladesh",
+          "guessed": "false"
+        },
+        {
+          "word": "Barbados",
+          "guessed": "false"
+        },
+        {
+          "word": "Belarus",
+          "guessed": "false"
+        },
+        {
+          "word": "Belgium",
+          "guessed": "false"
+        },
+        {
+          "word": "Belize",
+          "guessed": "false"
+        },
+        {
+          "word": "Benin",
+          "guessed": "false"
+        },
+        {
+          "word": "Bhutan",
+          "guessed": "false"
+        },
+        {
+          "word": "Bolivia",
+          "guessed": "false"
+        },
+        {
+          "word": "Bosnia and Herzegovina",
+          "guessed": "false"
+        },
+        {
+          "word": "Botswana",
+          "guessed": "false"
+        },
+        {
+          "word": "Brazil",
+          "guessed": "false"
+        },
+        {
+          "word": "Brunei ",
+          "guessed": "false"
+        },
+        {
+          "word": "Bulgaria",
+          "guessed": "false"
+        },
+        {
+          "word": "Burkina Faso",
+          "guessed": "false"
+        },
+        {
+          "word": "Burma",
+          "guessed": "false"
+        },
+        {
+          "word": "Burundi",
+          "guessed": "false"
+        },
+        {
+          "word": "Cambodia",
+          "guessed": "false"
+        },
+        {
+          "word": "Cameroon",
+          "guessed": "false"
+        },
+        {
+          "word": "Canada",
+          "guessed": "false"
+        },
+        {
+          "word": "Cape Verde",
+          "guessed": "false"
+        },
+        {
+          "word": "Central African Republic",
+          "guessed": "false"
+        },
+        {
+          "word": "Chad",
+          "guessed": "false"
+        },
+        {
+          "word": "Chile",
+          "guessed": "false"
+        },
+        {
+          "word": "China",
+          "guessed": "false"
+        },
+        {
+          "word": "Colombia",
+          "guessed": "false"
+        },
+        {
+          "word": "Comoros",
+          "guessed": "false"
+        },
+        {
+          "word": "Congo",
+          "guessed": "false"
+        },
+        {
+          "word": "Costa Rica",
+          "guessed": "false"
+        },
+        {
+          "word": "Cote d'Ivoire",
+          "guessed": "false"
+        },
+        {
+          "word": "Croatia",
+          "guessed": "false"
+        },
+        {
+          "word": "Cuba",
+          "guessed": "false"
+        },
+        {
+          "word": "Curacao",
+          "guessed": "false"
+        },
+        {
+          "word": "Cyprus",
+          "guessed": "false"
+        },
+        {
+          "word": "Czech Republic",
+          "guessed": "false"
+        },
+        {
+          "word": "Denmark",
+          "guessed": "false"
+        },
+        {
+          "word": "Djibouti",
+          "guessed": "false"
+        },
+        {
+          "word": "Dominica",
+          "guessed": "false"
+        },
+        {
+          "word": "Dominican Republic",
+          "guessed": "false"
+        },
+        {
+          "word": "East Timor",
+          "guessed": "false"
+        },
+        {
+          "word": "Ecuador",
+          "guessed": "false"
+        },
+        {
+          "word": "Egypt",
+          "guessed": "false"
+        },
+        {
+          "word": "El Salvador",
+          "guessed": "false"
+        },
+        {
+          "word": "Equatorial Guinea",
+          "guessed": "false"
+        },
+        {
+          "word": "Eritrea",
+          "guessed": "false"
+        },
+        {
+          "word": "Estonia",
+          "guessed": "false"
+        },
+        {
+          "word": "Ethiopia",
+          "guessed": "false"
+        },
+        {
+          "word": "Fiji",
+          "guessed": "false"
+        },
+        {
+          "word": "Finland",
+          "guessed": "false"
+        },
+        {
+          "word": "France",
+          "guessed": "false"
+        },
+        {
+          "word": "Gabon",
+          "guessed": "false"
+        },
+        {
+          "word": "Gambia",
+          "guessed": "false"
+        },
+        {
+          "word": "Georgia",
+          "guessed": "false"
+        },
+        {
+          "word": "Germany",
+          "guessed": "false"
+        },
+        {
+          "word": "Ghana",
+          "guessed": "false"
+        },
+        {
+          "word": "Greece",
+          "guessed": "false"
+        },
+        {
+          "word": "Grenada",
+          "guessed": "false"
+        },
+        {
+          "word": "Guatemala",
+          "guessed": "false"
+        },
+        {
+          "word": "Guinea",
+          "guessed": "false"
+        },
+        {
+          "word": "Guyana",
+          "guessed": "false"
+        },
+        {
+          "word": "Haiti",
+          "guessed": "false"
+        },
+        {
+          "word": "Holy See",
+          "guessed": "false"
+        },
+        {
+          "word": "Honduras",
+          "guessed": "false"
+        },
+        {
+          "word": "Hong Kong",
+          "guessed": "false"
+        },
+        {
+          "word": "Hungary",
+          "guessed": "false"
+        },
+        {
+          "word": "Iceland",
+          "guessed": "false"
+        },
+        {
+          "word": "India",
+          "guessed": "false"
+        },
+        {
+          "word": "Indonesia",
+          "guessed": "false"
+        },
+        {
+          "word": "Iran",
+          "guessed": "false"
+        },
+        {
+          "word": "Iraq",
+          "guessed": "false"
+        },
+        {
+          "word": "Ireland",
+          "guessed": "false"
+        },
+        {
+          "word": "Israel",
+          "guessed": "false"
+        },
+        {
+          "word": "Italy",
+          "guessed": "false"
+        },
+        {
+          "word": "Jamaica",
+          "guessed": "false"
+        },
+        {
+          "word": "Japan",
+          "guessed": "false"
+        },
+        {
+          "word": "Jordan",
+          "guessed": "false"
+        },
+        {
+          "word": "Kazakhstan",
+          "guessed": "false"
+        },
+        {
+          "word": "Kenya",
+          "guessed": "false"
+        },
+        {
+          "word": "Kiribati",
+          "guessed": "false"
+        },
+        {
+          "word": "North Korea",
+          "guessed": "false"
+        },
+        {
+          "word": "South Korea",
+          "guessed": "false"
+        },
+        {
+          "word": "Kosovo",
+          "guessed": "false"
+        },
+        {
+          "word": "Kuwait",
+          "guessed": "false"
+        },
+        {
+          "word": "Kyrgyzstan",
+          "guessed": "false"
+        },
+        {
+          "word": "Laos",
+          "guessed": "false"
+        },
+        {
+          "word": "Latvia",
+          "guessed": "false"
+        },
+        {
+          "word": "Lebanon",
+          "guessed": "false"
+        },
+        {
+          "word": "Lesotho",
+          "guessed": "false"
+        },
+        {
+          "word": "Liberia",
+          "guessed": "false"
+        },
+        {
+          "word": "Libya",
+          "guessed": "false"
+        },
+        {
+          "word": "Liechtenstein",
+          "guessed": "false"
+        },
+        {
+          "word": "Lithuania",
+          "guessed": "false"
+        },
+        {
+          "word": "Luxembourg",
+          "guessed": "false"
+        },
+        {
+          "word": "Macau",
+          "guessed": "false"
+        },
+        {
+          "word": "Macedonia",
+          "guessed": "false"
+        },
+        {
+          "word": "Madagascar",
+          "guessed": "false"
+        },
+        {
+          "word": "Malawi",
+          "guessed": "false"
+        },
+        {
+          "word": "Malaysia",
+          "guessed": "false"
+        },
+        {
+          "word": "Maldives",
+          "guessed": "false"
+        },
+        {
+          "word": "Mali",
+          "guessed": "false"
+        },
+        {
+          "word": "Malta",
+          "guessed": "false"
+        },
+        {
+          "word": "Marshall Islands",
+          "guessed": "false"
+        },
+        {
+          "word": "Mauritania",
+          "guessed": "false"
+        },
+        {
+          "word": "Mauritius",
+          "guessed": "false"
+        },
+        {
+          "word": "Mexico",
+          "guessed": "false"
+        },
+        {
+          "word": "Micronesia",
+          "guessed": "false"
+        },
+        {
+          "word": "Moldova",
+          "guessed": "false"
+        },
+        {
+          "word": "Monaco",
+          "guessed": "false"
+        },
+        {
+          "word": "Mongolia",
+          "guessed": "false"
+        },
+        {
+          "word": "Montenegro",
+          "guessed": "false"
+        },
+        {
+          "word": "Morocco",
+          "guessed": "false"
+        },
+        {
+          "word": "Mozambique",
+          "guessed": "false"
+        },
+        {
+          "word": "Namibia",
+          "guessed": "false"
+        },
+        {
+          "word": "Nauru",
+          "guessed": "false"
+        },
+        {
+          "word": "Nepal",
+          "guessed": "false"
+        },
+        {
+          "word": "Netherlands",
+          "guessed": "false"
+        },
+        {
+          "word": "New Zealand",
+          "guessed": "false"
+        },
+        {
+          "word": "Nicaragua",
+          "guessed": "false"
+        },
+        {
+          "word": "Niger",
+          "guessed": "false"
+        },
+        {
+          "word": "Nigeria",
+          "guessed": "false"
+        },
+        {
+          "word": "North Korea",
+          "guessed": "false"
+        },
+        {
+          "word": "Norway",
+          "guessed": "false"
+        },
+        {
+          "word": "Oman",
+          "guessed": "false"
+        },
+        {
+          "word": "Pakistan",
+          "guessed": "false"
+        },
+        {
+          "word": "Palau",
+          "guessed": "false"
+        },
+        {
+          "word": "Palestinian Territories",
+          "guessed": "false"
+        },
+        {
+          "word": "Panama",
+          "guessed": "false"
+        },
+        {
+          "word": "Papua New Guinea",
+          "guessed": "false"
+        },
+        {
+          "word": "Paraguay",
+          "guessed": "false"
+        },
+        {
+          "word": "Peru",
+          "guessed": "false"
+        },
+        {
+          "word": "Philippines",
+          "guessed": "false"
+        },
+        {
+          "word": "Poland",
+          "guessed": "false"
+        },
+        {
+          "word": "Portugal",
+          "guessed": "false"
+        },
+        {
+          "word": "Qatar",
+          "guessed": "false"
+        },
+        {
+          "word": "Romania",
+          "guessed": "false"
+        },
+        {
+          "word": "Russia",
+          "guessed": "false"
+        },
+        {
+          "word": "Rwanda",
+          "guessed": "false"
+        },
+        {
+          "word": "Saint Kitts and Nevis",
+          "guessed": "false"
+        },
+        {
+          "word": "Saint Lucia",
+          "guessed": "false"
+        },
+        {
+          "word": "Saint Vincent and the Grenadines",
+          "guessed": "false"
+        },
+        {
+          "word": "Samoa ",
+          "guessed": "false"
+        },
+        {
+          "word": "San Marino",
+          "guessed": "false"
+        },
+        {
+          "word": "Sao Tome and Principe",
+          "guessed": "false"
+        },
+        {
+          "word": "Saudi Arabia",
+          "guessed": "false"
+        },
+        {
+          "word": "Senegal",
+          "guessed": "false"
+        },
+        {
+          "word": "Serbia",
+          "guessed": "false"
+        },
+        {
+          "word": "Seychelles",
+          "guessed": "false"
+        },
+        {
+          "word": "Sierra Leone",
+          "guessed": "false"
+        },
+        {
+          "word": "Singapore",
+          "guessed": "false"
+        },
+        {
+          "word": "Sint Maarten",
+          "guessed": "false"
+        },
+        {
+          "word": "Slovakia",
+          "guessed": "false"
+        },
+        {
+          "word": "Slovenia",
+          "guessed": "false"
+        },
+        {
+          "word": "Solomon Islands",
+          "guessed": "false"
+        },
+        {
+          "word": "Somalia",
+          "guessed": "false"
+        },
+        {
+          "word": "South Africa",
+          "guessed": "false"
+        },
+        {
+          "word": "South Korea",
+          "guessed": "false"
+        },
+        {
+          "word": "South Sudan",
+          "guessed": "false"
+        },
+        {
+          "word": "Spain ",
+          "guessed": "false"
+        },
+        {
+          "word": "Sri Lanka",
+          "guessed": "false"
+        },
+        {
+          "word": "Sudan",
+          "guessed": "false"
+        },
+        {
+          "word": "Suriname",
+          "guessed": "false"
+        },
+        {
+          "word": "Swaziland ",
+          "guessed": "false"
+        },
+        {
+          "word": "Sweden",
+          "guessed": "false"
+        },
+        {
+          "word": "Switzerland",
+          "guessed": "false"
+        },
+        {
+          "word": "Syria",
+          "guessed": "false"
+        },
+        {
+          "word": "Taiwan",
+          "guessed": "false"
+        },
+        {
+          "word": "Tajikistan",
+          "guessed": "false"
+        },
+        {
+          "word": "Tanzania",
+          "guessed": "false"
+        },
+        {
+          "word": "Thailand ",
+          "guessed": "false"
+        },
+        {
+          "word": "Togo",
+          "guessed": "false"
+        },
+        {
+          "word": "Tonga",
+          "guessed": "false"
+        },
+        {
+          "word": "Trinidad and Tobago",
+          "guessed": "false"
+        },
+        {
+          "word": "Tunisia",
+          "guessed": "false"
+        },
+        {
+          "word": "Turkey",
+          "guessed": "false"
+        },
+        {
+          "word": "Turkmenistan",
+          "guessed": "false"
+        },
+        {
+          "word": "Tuvalu",
+          "guessed": "false"
+        },
+        {
+          "word": "Uganda",
+          "guessed": "false"
+        },
+        {
+          "word": "Ukraine",
+          "guessed": "false"
+        },
+        {
+          "word": "United Arab Emirates",
+          "guessed": "false"
+        },
+        {
+          "word": "United Kingdom",
+          "guessed": "false"
+        },
+        {
+          "word": "Uruguay",
+          "guessed": "false"
+        },
+        {
+          "word": "Uzbekistan",
+          "guessed": "false"
+        },
+        {
+          "word": "Vanuatu",
+          "guessed": "false"
+        },
+        {
+          "word": "Venezuela",
+          "guessed": "false"
+        },
+        {
+          "word": "Vietnam",
+          "guessed": "false"
+        },
+        {
+          "word": "Yemen",
+          "guessed": "false"
+        },
+        {
+          "word": "Zambia",
+          "guessed": "false"
+        },
+        {
+          "word": "Zimbabwe",
+          "guessed": "false"
+        }
+      ]
+    },
+    {
+      "name": "famous",
+      "wordsArray": [
+        {
+          "word": "Abraham Lincoln",
+          "guessed": "false"
+        },
+        {
+          "word": "Mother Teresa",
+          "guessed": "false"
+        },
+        {
+          "word": "John F. Kennedy",
+          "guessed": "false"
+        },
+        {
+          "word": "Martin Luther King",
+          "guessed": "false"
+        },
+        {
+          "word": "Nelson Mandela",
+          "guessed": "false"
+        },
+        {
+          "word": "Winston Churchill",
+          "guessed": "false"
+        },
+        {
+          "word": "Bill Gates",
+          "guessed": "false"
+        },
+        {
+          "word": "Muhammad Ali",
+          "guessed": "false"
+        },
+        {
+          "word": "Mahatma Gandhi",
+          "guessed": "false"
+        },
+        {
+          "word": "Margaret Thatcher",
+          "guessed": "false"
+        },
+        {
+          "word": "Charles de Gaulle",
+          "guessed": "false"
+        },
+        {
+          "word": "Christopher Columbus",
+          "guessed": "false"
+        },
+        {
+          "word": "George Orwell",
+          "guessed": "false"
+        },
+        {
+          "word": "Charles Darwin",
+          "guessed": "false"
+        },
+        {
+          "word": "Elvis Presley",
+          "guessed": "false"
+        },
+        {
+          "word": "Albert Einstein",
+          "guessed": "false"
+        },
+        {
+          "word": "Paul McCartney",
+          "guessed": "false"
+        },
+        {
+          "word": "Plato",
+          "guessed": "false"
+        },
+        {
+          "word": "Queen Elizabeth II",
+          "guessed": "false"
+        },
+        {
+          "word": "Queen Victoria",
+          "guessed": "false"
+        },
+        {
+          "word": "John M Keynes",
+          "guessed": "false"
+        },
+        {
+          "word": "Mikhail Gorbachev",
+          "guessed": "false"
+        },
+        {
+          "word": "Jawaharlal Nehru",
+          "guessed": "false"
+        },
+        {
+          "word": "Leonardo da Vinci",
+          "guessed": "false"
+        },
+        {
+          "word": "Louis Pasteur",
+          "guessed": "false"
+        },
+        {
+          "word": "Leo Tolstoy",
+          "guessed": "false"
+        },
+        {
+          "word": "Pablo Picasso",
+          "guessed": "false"
+        },
+        {
+          "word": "Vincent Van Gogh",
+          "guessed": "false"
+        },
+        {
+          "word": "Franklin D. Roosevelt",
+          "guessed": "false"
+        },
+        {
+          "word": "Pope John Paul II",
+          "guessed": "false"
+        },
+        {
+          "word": "Thomas Edison",
+          "guessed": "false"
+        },
+        {
+          "word": "Rosa Parks",
+          "guessed": "false"
+        },
+        {
+          "word": "Aung San Suu Kyi",
+          "guessed": "false"
+        },
+        {
+          "word": "Lyndon Johnson",
+          "guessed": "false"
+        },
+        {
+          "word": "Ludwig Beethoven",
+          "guessed": "false"
+        },
+        {
+          "word": "Oprah Winfrey",
+          "guessed": "false"
+        },
+        {
+          "word": "Indira Gandhi",
+          "guessed": "false"
+        },
+        {
+          "word": "Eva Peron",
+          "guessed": "false"
+        },
+        {
+          "word": "Benazir Bhutto",
+          "guessed": "false"
+        },
+        {
+          "word": "Desmond Tutu",
+          "guessed": "false"
+        },
+        {
+          "word": "Dalai Lama",
+          "guessed": "false"
+        },
+        {
+          "word": "Walt Disney",
+          "guessed": "false"
+        },
+        {
+          "word": "Neil Armstrong",
+          "guessed": "false"
+        },
+        {
+          "word": "Donald Trump",
+          "guessed": "false"
+        },
+        {
+          "word": "Peter Sellers",
+          "guessed": "false"
+        },
+        {
+          "word": "Barack Obama",
+          "guessed": "false"
+        },
+        {
+          "word": "Malcolm X",
+          "guessed": "false"
+        },
+        {
+          "word": "J.K.Rowling",
+          "guessed": "false"
+        },
+        {
+          "word": "Richard Branson",
+          "guessed": "false"
+        },
+        {
+          "word": "Pele",
+          "guessed": "false"
+        },
+        {
+          "word": "Angelina Jolie",
+          "guessed": "false"
+        },
+        {
+          "word": "Jesse Owens",
+          "guessed": "false"
+        },
+        {
+          "word": "Ernest Hemingway",
+          "guessed": "false"
+        },
+        {
+          "word": "John Lennon",
+          "guessed": "false"
+        },
+        {
+          "word": "Henry Ford",
+          "guessed": "false"
+        },
+        {
+          "word": "Haile Selassie",
+          "guessed": "false"
+        },
+        {
+          "word": "Joseph Stalin",
+          "guessed": "false"
+        },
+        {
+          "word": "Lord Baden Powell",
+          "guessed": "false"
+        },
+        {
+          "word": "Michael Jordon",
+          "guessed": "false"
+        },
+        {
+          "word": "George Bush jnr",
+          "guessed": "false"
+        },
+        {
+          "word": "V.Lenin",
+          "guessed": "false"
+        },
+        {
+          "word": "Ingrid Bergman",
+          "guessed": "false"
+        },
+        {
+          "word": "Fidel Castro",
+          "guessed": "false"
+        },
+        {
+          "word": "Oscar Wilde",
+          "guessed": "false"
+        },
+        {
+          "word": "Coco Chanel",
+          "guessed": "false"
+        },
+        {
+          "word": "Pope Francis",
+          "guessed": "false"
+        },
+        {
+          "word": "Amelia Earhart",
+          "guessed": "false"
+        },
+        {
+          "word": "Adolf Hitler",
+          "guessed": "false"
+        },
+        {
+          "word": "Sting",
+          "guessed": "false"
+        },
+        {
+          "word": "Mary Magdalene",
+          "guessed": "false"
+        },
+        {
+          "word": "Alfred Hitchcock",
+          "guessed": "false"
+        },
+        {
+          "word": "Michael Jackson",
+          "guessed": "false"
+        },
+        {
+          "word": "Madonna",
+          "guessed": "false"
+        },
+        {
+          "word": "Mata Hari",
+          "guessed": "false"
+        },
+        {
+          "word": "Cleopatra",
+          "guessed": "false"
+        },
+        {
+          "word": "Grace Kelly",
+          "guessed": "false"
+        },
+        {
+          "word": "Steve Jobs",
+          "guessed": "false"
+        },
+        {
+          "word": "Ronald Reagan ",
+          "guessed": "false"
+        },
+        {
+          "word": "Lionel Messi",
+          "guessed": "false"
+        },
+        {
+          "word": "Babe Ruth",
+          "guessed": "false"
+        },
+        {
+          "word": "Bob Geldof",
+          "guessed": "false"
+        },
+        {
+          "word": "Leon Trotsky",
+          "guessed": "false"
+        },
+        {
+          "word": "Roger Federer",
+          "guessed": "false"
+        },
+        {
+          "word": "Sigmund Freud",
+          "guessed": "false"
+        },
+        {
+          "word": "Woodrow Wilson",
+          "guessed": "false"
+        },
+        {
+          "word": "Mao Zedong",
+          "guessed": "false"
+        },
+        {
+          "word": "Katherine Hepburn",
+          "guessed": "false"
+        },
+        {
+          "word": "Audrey Hepburn",
+          "guessed": "false"
+        },
+        {
+          "word": "David Beckham",
+          "guessed": "false"
+        },
+        {
+          "word": "Tiger Woods",
+          "guessed": "false"
+        },
+        {
+          "word": "Usain Bolt",
+          "guessed": "false"
+        },
+        {
+          "word": "Carl Lewis",
+          "guessed": "false"
+        },
+        {
+          "word": "Prince Charles",
+          "guessed": "false"
+        },
+        {
+          "word": "Jacqueline Kennedy Onassis",
+          "guessed": "false"
+        },
+        {
+          "word": "C.S. Lewis",
+          "guessed": "false"
+        },
+        {
+          "word": "Billie Holiday",
+          "guessed": "false"
+        },
+        {
+          "word": "J.R.R. Tolkien",
+          "guessed": "false"
+        },
+        {
+          "word": "Billie Jean King",
+          "guessed": "false"
+        },
+        {
+          "word": "Anne Frank",
+          "guessed": "false"
+        },
+        {
+          "word": "Simon Bolivar",
+          "guessed": "false"
+        },
+        {
+          "word": "Marie Antoinette",
+          "guessed": "false"
+        },
+        {
+          "word": "Christiano Ronaldo",
+          "guessed": "false"
+        },
+        {
+          "word": "Emmeline Pankhurst ",
+          "guessed": "false"
+        },
+        {
+          "word": "Emile Zatopek",
+          "guessed": "false"
+        },
+        {
+          "word": "Lech Walesa",
+          "guessed": "false"
+        },
+        {
+          "word": "Julie Andrews",
+          "guessed": "false"
+        },
+        {
+          "word": "Florence Nightingale",
+          "guessed": "false"
+        },
+        {
+          "word": "Marie Curie",
+          "guessed": "false"
+        },
+        {
+          "word": "Stephen Hawking",
+          "guessed": "false"
+        },
+        {
+          "word": "Tim Berners Lee",
+          "guessed": "false"
+        },
+        {
+          "word": "Lance Armstrong",
+          "guessed": "false"
+        },
+        {
+          "word": "Shakira",
+          "guessed": "false"
+        },
+        {
+          "word": "Jon Stewart",
+          "guessed": "false"
+        },
+        {
+          "word": "Wright Brothers",
+          "guessed": "false"
+        },
+        {
+          "word": "Roman Abramovich ",
+          "guessed": "false"
+        },
+        {
+          "word": "Tom Cruise",
+          "guessed": "false"
+        },
+        {
+          "word": "Rupert Murdoch",
+          "guessed": "false"
+        },
+        {
+          "word": "Al Gore",
+          "guessed": "false"
+        },
+        {
+          "word": "Sacha Baron Cohen",
+          "guessed": "false"
+        },
+        {
+          "word": "George Clooney",
+          "guessed": "false"
+        },
+        {
+          "word": "Paul Krugman",
+          "guessed": "false"
+        },
+        {
+          "word": "Jimmy Wales",
+          "guessed": "false"
+        },
+        {
+          "word": "Brad Pitt",
+          "guessed": "false"
+        },
+        {
+          "word": "Kylie Minogue",
+          "guessed": "false"
+        },
+        {
+          "word": "Malala Yousafzai",
+          "guessed": "false"
+        },
+        {
+          "word": "Stephen King",
+          "guessed": "false"
+        }
+      ]
+    },
+    {
+      "name": "bands",
+      "wordsArray": [
+        {
+          "word": "GnarlsBarkley",
+          "guessed": "false"
+        },
+        {
+          "word": "Creedence Clearwater Revival",
+          "guessed": "false"
+        },
+        {
+          "word": "Al Green",
+          "guessed": "false"
+        },
+        {
+          "word": "Chuck Berry",
+          "guessed": "false"
+        },
+        {
+          "word": "Jerry Lee Lewis",
+          "guessed": "false"
+        },
+        {
+          "word": "Carl Perkins",
+          "guessed": "false"
+        },
+        {
+          "word": "Little Richard",
+          "guessed": "false"
+        },
+        {
+          "word": "U2",
+          "guessed": "false"
+        },
+        {
+          "word": "The Ramones",
+          "guessed": "false"
+        },
+        {
+          "word": "Elvis Presley",
+          "guessed": "false"
+        },
+        {
+          "word": "The Five Satins",
+          "guessed": "false"
+        },
+        {
+          "word": "The Mamas & The Papas",
+          "guessed": "false"
+        },
+        {
+          "word": "Temptations",
+          "guessed": "false"
+        },
+        {
+          "word": "Johnny Cash",
+          "guessed": "false"
+        },
+        {
+          "word": "Bruce Springsteen",
+          "guessed": "false"
+        },
+        {
+          "word": "Patsy Cline",
+          "guessed": "false"
+        },
+        {
+          "word": "The Police",
+          "guessed": "false"
+        },
+        {
+          "word": "Beatles",
+          "guessed": "false"
+        },
+        {
+          "word": "Fats Domino",
+          "guessed": "false"
+        },
+        {
+          "word": "Marvin Gaye",
+          "guessed": "false"
+        },
+        {
+          "word": "Kinks",
+          "guessed": "false"
+        },
+        {
+          "word": "The Byrds",
+          "guessed": "false"
+        },
+        {
+          "word": "James Brown",
+          "guessed": "false"
+        },
+        {
+          "word": "Elvis Presley",
+          "guessed": "false"
+        },
+        {
+          "word": "Beatles",
+          "guessed": "false"
+        },
+        {
+          "word": "Led Zeppelin",
+          "guessed": "false"
+        },
+        {
+          "word": "Cochran Eddie",
+          "guessed": "false"
+        },
+        {
+          "word": "Stevie Wonder",
+          "guessed": "false"
+        },
+        {
+          "word": "Beach Boys",
+          "guessed": "false"
+        },
+        {
+          "word": "James Brown",
+          "guessed": "false"
+        },
+        {
+          "word": "Dionne Warwick",
+          "guessed": "false"
+        },
+        {
+          "word": "Roy Orbison",
+          "guessed": "false"
+        },
+        {
+          "word": "Bob Dylan",
+          "guessed": "false"
+        },
+        {
+          "word": "Elvis Presley",
+          "guessed": "false"
+        },
+        {
+          "word": "Bob Marley",
+          "guessed": "false"
+        },
+        {
+          "word": "Cream",
+          "guessed": "false"
+        },
+        {
+          "word": "Buffalo Springfield",
+          "guessed": "false"
+        },
+        {
+          "word": "Bo Diddley",
+          "guessed": "false"
+        },
+        {
+          "word": "Jerry Lee Lewis",
+          "guessed": "false"
+        },
+        {
+          "word": "Al Green",
+          "guessed": "false"
+        },
+        {
+          "word": "Bob Dylan",
+          "guessed": "false"
+        },
+        {
+          "word": "Michael Jackson",
+          "guessed": "false"
+        },
+        {
+          "word": "Procol Harum",
+          "guessed": "false"
+        },
+        {
+          "word": "Sex Pistols",
+          "guessed": "false"
+        },
+        {
+          "word": "Little Richard",
+          "guessed": "false"
+        },
+        {
+          "word": "The Kingsmen",
+          "guessed": "false"
+        },
+        {
+          "word": "Percy Sledge",
+          "guessed": "false"
+        },
+        {
+          "word": "Prince",
+          "guessed": "false"
+        },
+        {
+          "word": "Grandmaster Flash",
+          "guessed": "false"
+        },
+        {
+          "word": "Smokey Robinson",
+          "guessed": "false"
+        },
+        {
+          "word": "The Eagles",
+          "guessed": "false"
+        },
+        {
+          "word": "Simon And Garfunkel",
+          "guessed": "false"
+        },
+        {
+          "word": "Jimi Hendrix",
+          "guessed": "false"
+        },
+        {
+          "word": "David Bowie",
+          "guessed": "false"
+        },
+        {
+          "word": "Elvis Presley",
+          "guessed": "false"
+        },
+        {
+          "word": "Ray Charles",
+          "guessed": "false"
+        },
+        {
+          "word": "Little Richard",
+          "guessed": "false"
+        },
+        {
+          "word": "Kinks",
+          "guessed": "false"
+        },
+        {
+          "word": "Band",
+          "guessed": "false"
+        },
+        {
+          "word": "Martha And The Vandellas",
+          "guessed": "false"
+        },
+        {
+          "word": "Buddy Holly",
+          "guessed": "false"
+        },
+        {
+          "word": "Rolling Stones",
+          "guessed": "false"
+        },
+        {
+          "word": "Bob Marley",
+          "guessed": "false"
+        },
+        {
+          "word": "U2",
+          "guessed": "false"
+        },
+        {
+          "word": "The Doors",
+          "guessed": "false"
+        },
+        {
+          "word": "The Righteous Brothers",
+          "guessed": "false"
+        },
+        {
+          "word": "Tina Turner",
+          "guessed": "false"
+        },
+        {
+          "word": "Rolling Stones",
+          "guessed": "false"
+        },
+        {
+          "word": "Johnny Cash",
+          "guessed": "false"
+        },
+        {
+          "word": "Beatles",
+          "guessed": "false"
+        },
+        {
+          "word": "Derek And The Dominos",
+          "guessed": "false"
+        },
+        {
+          "word": "Otis Redding",
+          "guessed": "false"
+        },
+        {
+          "word": "Beach Boys",
+          "guessed": "false"
+        },
+        {
+          "word": "The Impressions",
+          "guessed": "false"
+        },
+        {
+          "word": "Beatles",
+          "guessed": "false"
+        },
+        {
+          "word": "The Ronettes",
+          "guessed": "false"
+        },
+        {
+          "word": "Bruce Springsteen",
+          "guessed": "false"
+        },
+        {
+          "word": "Beatles",
+          "guessed": "false"
+        },
+        {
+          "word": "Elvis Presley",
+          "guessed": "false"
+        },
+        {
+          "word": "Chuck Berry",
+          "guessed": "false"
+        },
+        {
+          "word": "Jimi Hendrix",
+          "guessed": "false"
+        },
+        {
+          "word": "The Clash",
+          "guessed": "false"
+        },
+        {
+          "word": "Bob Dylan",
+          "guessed": "false"
+        },
+        {
+          "word": "Sam Cooke",
+          "guessed": "false"
+        },
+        {
+          "word": "Who",
+          "guessed": "false"
+        },
+        {
+          "word": "Ray Charles",
+          "guessed": "false"
+        },
+        {
+          "word": "Nirvana",
+          "guessed": "false"
+        },
+        {
+          "word": "Chuck Berry",
+          "guessed": "false"
+        },
+        {
+          "word": "Beach Boys",
+          "guessed": "false"
+        },
+        {
+          "word": "Aretha Franklin",
+          "guessed": "false"
+        },
+        {
+          "word": "Marvin Gaye",
+          "guessed": "false"
+        },
+        {
+          "word": "John Lennon",
+          "guessed": "false"
+        },
+        {
+          "word": "Rolling Stones",
+          "guessed": "false"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "wordsArray": [
+        {
+          "word": "Strawberries",
+          "guessed": "false"
+        },
+        {
+          "word": "Pina Colada",
+          "guessed": "false"
+        },
+        {
+          "word": "Starbucks",
+          "guessed": "false"
+        },
+        {
+          "word": "Watercress",
+          "guessed": "false"
+        },
+        {
+          "word": "Pineapple",
+          "guessed": "false"
+        },
+        {
+          "word": "BBQ Sauce",
+          "guessed": "false"
+        },
+        {
+          "word": "Victoria Sponge Cake",
+          "guessed": "false"
+        },
+        {
+          "word": "Salted Caramel",
+          "guessed": "false"
+        },
+        {
+          "word": "Mozzarella",
+          "guessed": "false"
+        },
+        {
+          "word": "Garlic",
+          "guessed": "false"
+        },
+        {
+          "word": "Mushrooms",
+          "guessed": "false"
+        },
+        {
+          "word": "Ice Cream",
+          "guessed": "false"
+        },
+        {
+          "word": "Fudge",
+          "guessed": "false"
+        },
+        {
+          "word": "Citrus Fruit",
+          "guessed": "false"
+        },
+        {
+          "word": "Mint",
+          "guessed": "false"
+        },
+        {
+          "word": "Chocolate Chip Cookie Dough",
+          "guessed": "false"
+        },
+        {
+          "word": "Raspberry",
+          "guessed": "false"
+        },
+        {
+          "word": "Black Truffle",
+          "guessed": "false"
+        },
+        {
+          "word": "Bubble Tea",
+          "guessed": "false"
+        },
+        {
+          "word": "Pasta Carbonara",
+          "guessed": "false"
+        },
+        {
+          "word": "Prawns",
+          "guessed": "false"
+        },
+        {
+          "word": "Milk Chocolate",
+          "guessed": "false"
+        },
+        {
+          "word": "Crisps",
+          "guessed": "false"
+        },
+        {
+          "word": "garlic bread",
+          "guessed": "false"
+        },
+        {
+          "word": "Banana",
+          "guessed": "false"
+        },
+        {
+          "word": "Yoghurt",
+          "guessed": "false"
+        },
+        {
+          "word": "Salmon",
+          "guessed": "false"
+        },
+        {
+          "word": "Sweet Chilli Sauce",
+          "guessed": "false"
+        },
+        {
+          "word": "Chicken",
+          "guessed": "false"
+        },
+        {
+          "word": "Steak",
+          "guessed": "false"
+        },
+        {
+          "word": "Wraps",
+          "guessed": "false"
+        },
+        {
+          "word": "milk chocolate m&ms",
+          "guessed": "false"
+        },
+        {
+          "word": "Kinder Bueno",
+          "guessed": "false"
+        },
+        {
+          "word": "Watermelon",
+          "guessed": "false"
+        },
+        {
+          "word": "Lemonade",
+          "guessed": "false"
+        },
+        {
+          "word": "Slush puppies",
+          "guessed": "false"
+        },
+        {
+          "word": "Pepperoni Pizza",
+          "guessed": "false"
+        },
+        {
+          "word": "Pasta",
+          "guessed": "false"
+        },
+        {
+          "word": "candy canes",
+          "guessed": "false"
+        },
+        {
+          "word": "Cookies",
+          "guessed": "false"
+        },
+        {
+          "word": "Lasagna",
+          "guessed": "false"
+        },
+        {
+          "word": "Dr Pepper",
+          "guessed": "false"
+        },
+        {
+          "word": "white chocolate",
+          "guessed": "false"
+        },
+        {
+          "word": "Lemon",
+          "guessed": "false"
+        },
+        {
+          "word": "Red Onion",
+          "guessed": "false"
+        },
+        {
+          "word": "Peppers",
+          "guessed": "false"
+        },
+        {
+          "word": "Broccoli",
+          "guessed": "false"
+        },
+        {
+          "word": "Cauliflower Cheese",
+          "guessed": "false"
+        },
+        {
+          "word": "Spaghetti",
+          "guessed": "false"
+        },
+        {
+          "word": "Potato",
+          "guessed": "false"
+        },
+        {
+          "word": "Tomato",
+          "guessed": "false"
+        },
+        {
+          "word": "Cucumber",
+          "guessed": "false"
+        },
+        {
+          "word": "Bacon",
+          "guessed": "false"
+        },
+        {
+          "word": "Asparagus",
+          "guessed": "false"
+        },
+        {
+          "word": "quiche",
+          "guessed": "false"
+        },
+        {
+          "word": "Brownie",
+          "guessed": "false"
+        },
+        {
+          "word": "Chocolate Truffles",
+          "guessed": "false"
+        },
+        {
+          "word": "Mint Chocolate Chip Ice Cream",
+          "guessed": "false"
+        },
+        {
+          "word": "Oreo Cookies",
+          "guessed": "false"
+        },
+        {
+          "word": "mini eggs",
+          "guessed": "false"
+        },
+        {
+          "word": "Jaffa Cakes",
+          "guessed": "false"
+        },
+        {
+          "word": "Nutella",
+          "guessed": "false"
+        },
+        {
+          "word": "Walnut Snowball Cookies",
+          "guessed": "false"
+        },
+        {
+          "word": "Baked Smokin' Macaroni and Cheese",
+          "guessed": "false"
+        },
+        {
+          "word": "Wagon wheel",
+          "guessed": "false"
+        },
+        {
+          "word": "Leek",
+          "guessed": "false"
+        },
+        {
+          "word": "Hot Chocolate",
+          "guessed": "false"
+        },
+        {
+          "word": "Coffee",
+          "guessed": "false"
+        },
+        {
+          "word": "Scones",
+          "guessed": "false"
+        },
+        {
+          "word": "Cupcakes",
+          "guessed": "false"
+        },
+        {
+          "word": "Paprika",
+          "guessed": "false"
+        },
+        {
+          "word": "Meringue",
+          "guessed": "false"
+        },
+        {
+          "word": "Spring rolls",
+          "guessed": "false"
+        },
+        {
+          "word": "Wrigley's Spearmint",
+          "guessed": "false"
+        },
+        {
+          "word": "Moroccan Tea",
+          "guessed": "false"
+        },
+        {
+          "word": "Green Tea",
+          "guessed": "false"
+        },
+        {
+          "word": "Passion Fruit",
+          "guessed": "false"
+        },
+        {
+          "word": "Cinder Toffee",
+          "guessed": "false"
+        },
+        {
+          "word": "Mint Aero Chocolate",
+          "guessed": "false"
+        },
+        {
+          "word": "Creme Brulee",
+          "guessed": "false"
+        },
+        {
+          "word": "Creme Egg",
+          "guessed": "false"
+        },
+        {
+          "word": "Toblerone",
+          "guessed": "false"
+        },
+        {
+          "word": "Pretzel",
+          "guessed": "false"
+        },
+        {
+          "word": "Pop Tarts",
+          "guessed": "false"
+        },
+        {
+          "word": "Tim Hortons",
+          "guessed": "false"
+        },
+        {
+          "word": "Mojito",
+          "guessed": "false"
+        },
+        {
+          "word": "Baileys",
+          "guessed": "false"
+        },
+        {
+          "word": "Lemon Meringue Pie",
+          "guessed": "false"
+        },
+        {
+          "word": "Double Lollies",
+          "guessed": "false"
+        },
+        {
+          "word": "Blueberry Muffin",
+          "guessed": "false"
+        },
+        {
+          "word": "Swedish Meatballs",
+          "guessed": "false"
+        },
+        {
+          "word": "Fish Pie",
+          "guessed": "false"
+        },
+        {
+          "word": "Dauphinoise Potatoes",
+          "guessed": "false"
+        },
+        {
+          "word": "Domino's",
+          "guessed": "false"
+        },
+        {
+          "word": "Pancakes",
+          "guessed": "false"
+        },
+        {
+          "word": "Lobster",
+          "guessed": "false"
+        },
+        {
+          "word": "Sweet Potato",
+          "guessed": "false"
+        },
+        {
+          "word": "Parsnip",
+          "guessed": "false"
+        },
+        {
+          "word": "Fries",
+          "guessed": "false"
+        }
+      ]
+    },
+    {
+      "name": "books",
+      "wordsArray": [
+        {
+          "word": "A Tale of Two Cities",
+          "guessed": "false"
+        },
+        {
+          "word": "The Lord of the Rings",
+          "guessed": "false"
+        },
+        {
+          "word": ",",
+          "guessed": "false"
+        },
+        {
+          "word": "The Hobbit",
+          "guessed": "false"
+        },
+        {
+          "word": "Dream of the Red Chamber",
+          "guessed": "false"
+        },
+        {
+          "word": "And Then There Were None",
+          "guessed": "false"
+        },
+        {
+          "word": "The Lion, the Witch and the Wardrobe",
+          "guessed": "false"
+        },
+        {
+          "word": "She: a History of Adventure",
+          "guessed": "false"
+        },
+        {
+          "word": "The Little Prince",
+          "guessed": "false"
+        },
+        {
+          "word": "The Da Vinci Code",
+          "guessed": "false"
+        },
+        {
+          "word": "The Catcher in the Rye",
+          "guessed": "false"
+        },
+        {
+          "word": "The Alchemist",
+          "guessed": "false"
+        },
+        {
+          "word": "Steps to Christ",
+          "guessed": "false"
+        },
+        {
+          "word": "Heidi",
+          "guessed": "false"
+        },
+        {
+          "word": "The Common Sense Book of Baby and Child Care",
+          "guessed": "false"
+        },
+        {
+          "word": "Anne of Green Gables",
+          "guessed": "false"
+        },
+        {
+          "word": "Black Beauty",
+          "guessed": "false"
+        },
+        {
+          "word": "The Name of the Rose",
+          "guessed": "false"
+        },
+        {
+          "word": "The Hite Report",
+          "guessed": "false"
+        },
+        {
+          "word": "Charlotte's Web",
+          "guessed": "false"
+        },
+        {
+          "word": "The Tale of Peter Rabbit",
+          "guessed": "false"
+        },
+        {
+          "word": "Harry Potter and the Deathly Hallows",
+          "guessed": "false"
+        },
+        {
+          "word": "Jonathan Livingston Seagull",
+          "guessed": "false"
+        },
+        {
+          "word": "A Message to Garcia",
+          "guessed": "false"
+        },
+        {
+          "word": "Angels and Demons",
+          "guessed": "false"
+        },
+        {
+          "word": "How the Steel Was Tempered",
+          "guessed": "false"
+        },
+        {
+          "word": "War and Peace",
+          "guessed": "false"
+        },
+        {
+          "word": "The Adventures of Pinocchio",
+          "guessed": "false"
+        },
+        {
+          "word": "You Can Heal Your Life",
+          "guessed": "false"
+        },
+        {
+          "word": "Kane and Abel",
+          "guessed": "false"
+        },
+        {
+          "word": "The Diary of a Young Girl",
+          "guessed": "false"
+        },
+        {
+          "word": "In His Steps: What Would Jesus Do?",
+          "guessed": "false"
+        },
+        {
+          "word": "To Kill A Mocking Bird",
+          "guessed": "false"
+        },
+        {
+          "word": "Valley of the Dolls",
+          "guessed": "false"
+        },
+        {
+          "word": "Gone with the Wind",
+          "guessed": "false"
+        },
+        {
+          "word": "One Hundred Years of Solitude",
+          "guessed": "false"
+        },
+        {
+          "word": "The Purpose Driven Life by Rick Warren",
+          "guessed": "false"
+        },
+        {
+          "word": "The Thorn Birds",
+          "guessed": "false"
+        },
+        {
+          "word": "Think and Grow Rich",
+          "guessed": "false"
+        },
+        {
+          "word": "The Revolt of Mamie Stover",
+          "guessed": "false"
+        },
+        {
+          "word": "The Girl With The Dragon Tatoo",
+          "guessed": "false"
+        },
+        {
+          "word": "The Very Hungry Caterpillar",
+          "guessed": "false"
+        },
+        {
+          "word": "The Late, Great Planet Earth",
+          "guessed": "false"
+        },
+        {
+          "word": "Who Moved My Cheese?",
+          "guessed": "false"
+        },
+        {
+          "word": "The Wind in the Willows",
+          "guessed": "false"
+        },
+        {
+          "word": "1984",
+          "guessed": "false"
+        },
+        {
+          "word": "The Celestine Prophecy",
+          "guessed": "false"
+        },
+        {
+          "word": "The Godfather",
+          "guessed": "false"
+        },
+        {
+          "word": "Love Story",
+          "guessed": "false"
+        },
+        {
+          "word": "Wolf Totem",
+          "guessed": "false"
+        },
+        {
+          "word": "The Happy Hooker",
+          "guessed": "false"
+        },
+        {
+          "word": "Jaws",
+          "guessed": "false"
+        },
+        {
+          "word": "Love You Forever",
+          "guessed": "false"
+        },
+        {
+          "word": "Sophie's World",
+          "guessed": "false"
+        },
+        {
+          "word": "The Women's Room",
+          "guessed": "false"
+        },
+        {
+          "word": "What to Expect When You're Expecting",
+          "guessed": "false"
+        },
+        {
+          "word": "Where The Wild Things Are",
+          "guessed": "false"
+        },
+        {
+          "word": "The Secret",
+          "guessed": "false"
+        },
+        {
+          "word": "Fear of Flying",
+          "guessed": "false"
+        },
+        {
+          "word": "Goodnight Moon",
+          "guessed": "false"
+        },
+        {
+          "word": "Guess How Much I Love You",
+          "guessed": "false"
+        },
+        {
+          "word": "The Seven Habits of Highly Effective People",
+          "guessed": "false"
+        },
+        {
+          "word": "Shogun",
+          "guessed": "false"
+        },
+        {
+          "word": "The Poky Little Puppy",
+          "guessed": "false"
+        },
+        {
+          "word": "The Pillars of the Earth",
+          "guessed": "false"
+        },
+        {
+          "word": "How to Win Friends and Influence People",
+          "guessed": "false"
+        },
+        {
+          "word": "Perfume",
+          "guessed": "false"
+        },
+        {
+          "word": "The Horse Whisperer",
+          "guessed": "false"
+        },
+        {
+          "word": "The Shadow of the Wind",
+          "guessed": "false"
+        },
+        {
+          "word": "The Shack",
+          "guessed": "false"
+        },
+        {
+          "word": "The Hitchhiker's Guide to the Galaxy",
+          "guessed": "false"
+        },
+        {
+          "word": "Tuesdays with Morrie",
+          "guessed": "false"
+        },
+        {
+          "word": "God's Little Acre",
+          "guessed": "false"
+        },
+        {
+          "word": "Follow Your Heart",
+          "guessed": "false"
+        },
+        {
+          "word": "The Outsiders",
+          "guessed": "false"
+        },
+        {
+          "word": "Charlie and the Chocolate Factory",
+          "guessed": "false"
+        },
+        {
+          "word": "Norwegian Wood",
+          "guessed": "false"
+        },
+        {
+          "word": "Peyton Place",
+          "guessed": "false"
+        },
+        {
+          "word": "Dune",
+          "guessed": "false"
+        },
+        {
+          "word": "The Plague",
+          "guessed": "false"
+        },
+        {
+          "word": "No Longer Human",
+          "guessed": "false"
+        },
+        {
+          "word": "The Naked Ape",
+          "guessed": "false"
+        },
+        {
+          "word": "The Bridges of Madison County",
+          "guessed": "false"
+        },
+        {
+          "word": "The Divine Comedy",
+          "guessed": "false"
+        },
+        {
+          "word": "Things Fall Apart",
+          "guessed": "false"
+        },
+        {
+          "word": "The Prophet",
+          "guessed": "false"
+        },
+        {
+          "word": "The Exorcist",
+          "guessed": "false"
+        },
+        {
+          "word": "The Gruffalo",
+          "guessed": "false"
+        },
+        {
+          "word": "Catch-22",
+          "guessed": "false"
+        },
+        {
+          "word": "Eye of the Needle",
+          "guessed": "false"
+        },
+        {
+          "word": "A Brief History of Time",
+          "guessed": "false"
+        },
+        {
+          "word": "The Cat in the Hat",
+          "guessed": "false"
+        },
+        {
+          "word": "The Lovely Bones",
+          "guessed": "false"
+        },
+        {
+          "word": "Wild Swans",
+          "guessed": "false"
+        },
+        {
+          "word": "Santa Evita",
+          "guessed": "false"
+        },
+        {
+          "word": "Night",
+          "guessed": "false"
+        },
+        {
+          "word": "The Kite Runner",
+          "guessed": "false"
+        },
+        {
+          "word": "Yu Dan's Insights on the Analects of Confucius",
+          "guessed": "false"
+        },
+        {
+          "word": "The Total Woman",
+          "guessed": "false"
+        },
+        {
+          "word": "The Knowledge-value Revolution",
+          "guessed": "false"
+        },
+        {
+          "word": "Problems in China's Socialist Economy",
+          "guessed": "false"
+        },
+        {
+          "word": "What Color Is Your Parachute?",
+          "guessed": "false"
+        }
+      ]
+    }
+  ]
+}

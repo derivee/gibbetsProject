@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Game settings">
+        <ListPreference
+            android:key="Difficulty"
+            android:title="Difficulty of play"
+            android:entries="@array/difficulty_list"
+            android:entryValues="@array/difficulty_values"
+            android:defaultValue="1"/>
+        <ListPreference
+            android:key="Notifications"
+            android:title="Notifications frequency"
+            android:entries="@array/not_list"
+            android:entryValues="@array/not_values"
+            android:defaultValue="1"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="Others">
+        <PreferenceScreen
+            android:title="Check similar apps in Google Play"
+            android:key="info">
+
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/item1"
+            android:icon="@android:drawable/ic_menu_preferences"
+            android:showAsAction="always|withText"
+            android:title="Settings"/>
+        <!--<group android:id="@+id/group">-->
+            <!--<item android:id="@+id/group_item1"-->
+                <!--android:onClick="onGroupItemClick"-->
+                <!--android:title="group_item1"-->
+                <!--android:icon="@android:drawable/button_onoff_indicator_on" />-->
+            <!--<item android:id="@+id/group_item2"-->
+                <!--android:onClick="onGroupItemClick"-->
+                <!--android:title="group_item2"-->
+                <!--android:icon="@android:drawable/alert_light_frame" />-->
+        <!--</group>-->
+        <!--<item android:id="@+id/submenu"-->
+            <!--android:title="submenu_title"-->
+            <!--android:showAsAction="ifRoom|withText" >-->
+            <!--<menu>-->
+                <!--<item android:id="@+id/submenu_item1"-->
+                    <!--android:title="submenu_item1" />-->
+            <!--</menu>-->
+        <!--</item>-->
+    </menu>
